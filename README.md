@@ -1,2 +1,3 @@
-# convert .CSV to .KML using Python
-Read comma-separated (.CSV) data and convert to KML files readable by Googleearth.
+# Use Python to convert .CSV to .KML
+Input File:  comma separated values (.csv)
+Output File: Keyhole Markup Language (.kml)
