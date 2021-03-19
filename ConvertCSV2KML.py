@@ -1,10 +1,6 @@
 import csv
 
 # write the input file inside quotes
-# Campgrounds.csv - US and Canada campgrounds
-# US_COE.csv - all US corps of engineers campgrounds
-# US_CP.csv  - all US county,city and regional parks
-# US_SP.csv  - all US state parks
 in_file = str( "test.csv" )
 print( "input file is " + str(in_file) )
 
