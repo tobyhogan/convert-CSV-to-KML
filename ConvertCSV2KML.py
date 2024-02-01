@@ -1,7 +1,7 @@
 import csv
 
 # write the input file inside quotes
-in_file = str( "test.csv" )
+in_file = str( "gps.csv" )
 print( "input file is " + str(in_file) )
 
 # read data
